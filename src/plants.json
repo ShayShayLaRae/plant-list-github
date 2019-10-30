@@ -1,0 +1,99 @@
+ [{
+    "my_nickname": "",
+    "image": "https://s3.amazonaws.com/cdn.michiganbulb.com/images/500/62752A_1.jpg",
+    "common_name": "Meyer Lemon Tree (dwarf)",
+    "scientific_name": "Citrus x meyeri",
+    "hardiness_zones": "8-11"
+},
+{
+    "my_nickname": "Peter Parker",
+    "image": "https://i.pinimg.com/originals/61/f0/b8/61f0b8bedd1dc7a2909f95915281cdff.jpg",
+    "common_name": "Spider Plant",
+    "scientific_name": "Chlorophytum comosum",
+    "hardiness_zones": "9-11"
+},
+{
+    "my_nickname": "",
+    "image": "https://5.imimg.com/data5/YI/IO/MY-42326116/aloe-vera-house-plants-500x500.jpg",
+    "common_name": "Aloe",
+    "scientific_name": "Aloe vera",
+    "hardiness_zones": "10-11"
+},
+{
+    "my_nickname": "Audrey2",
+    "image": "https://i.pinimg.com/originals/29/e1/85/29e18518654c06ac28fe46c00982c8c6.jpg",
+    "common_name": "Split Rock",
+    "scientific_name": "Pleiospilos nelii",
+    "hardiness_zones": "9-11"
+},
+{
+    "my_nickname": "",
+    "image": "https://www.americanmeadows.com/media/catalog/product/l/a/lavandula-superblue-lavender-pot.jpg?width=700&height=700&canvas=700:700&quality=80&bg-color=255,255,255&fit=bounds",
+    "common_name": "Munstead or 'english' Lavender",
+    "scientific_name": "Lavandula angustifolia",
+    "hardiness_zones": "4-9"
+},
+{
+    "my_nickname": "Nose Candy",
+    "image": "https://my-test-11.slatic.net/shop/8aa3a56ca9085ec5221959ea09637eb8.jpeg",
+    "common_name": "Common Rosemary",
+    "scientific_name": "Rosmarinus officinalis",
+    "hardiness_zones": "1-9"
+},
+{
+    "my_nickname": "",
+    "image": "https://img2.lrgarden.com/feed_pic/240/16/1000321520_1000013406_1503751952.jpg",
+    "common_name": "Flat-leaf Parsley",
+    "scientific_name": "Petroselinum crispum",
+    "hardiness_zones": "4-9"
+},
+{
+    "my_nickname": "",
+    "image": "https://balconygardenweb-lhnfx0beomqvnhspx.netdna-ssl.com/wp-content/uploads/2019/07/chives-indoor2.jpg",
+    "common_name": "Chives",
+    "scientific_name": "Allium schoenoprasum",
+    "hardiness_zones": "3-10"
+},
+{
+    "my_nickname": "",
+    "image": "https://img1.southernliving.timeinc.net/sites/default/files/styles/medium_2x/public/image/ficus-e1421492847311.jpg?itok=txYLQOzt",
+    "common_name": "Weeping Fig Tree",
+    "scientific_name": "Ficus benjamina",
+    "hardiness_zones": "10-11"
+},
+{
+    "my_nickname": "",
+    "image": "https://www.joyusgarden.com/wp-content/uploads/2018/07/P1110594.png",
+    "common_name": "Golden Pothos, Devils Ivy",
+    "scientific_name": "Epipremnum aureum",
+    "hardiness_zones": "10-11"
+},
+{
+    "my_nickname": "",
+    "image": "https://www.growforagecookferment.com/wp-content/uploads/2016/05/mint-close-up-e1464493977804-800x673.jpg",
+    "common_name": "Ginger Mint",
+    "scientific_name": "Mentha x gracilis",
+    "hardiness_zones": "5-9"
+},
+{
+    "my_nickname": "Italian Leaves",
+    "image": "https://gardenerspath.com/wp-content/uploads/2018/03/How-to-Grow-Basil-in-Pots-and-Containers.jpg",
+    "common_name": "Basil",
+    "scientific_name": "Ocimum basilicum",
+    "hardiness_zones": "2-11"
+},
+{
+    "my_nickname": "",
+    "image": "https://www.scienceprofonline.com/images/science-image-library/plants/succulents-cacti/coral-cactus.jpg",
+    "common_name": "Coral Cactus",
+    "scientific_name": "Euphorbia lactea",
+    "hardiness_zones": "10-11"
+},
+{
+    "my_nickname": "",
+    "image": "https://static.onecms.io/wp-content/uploads/sites/37/2016/02/31235615/orange_marmalade.jpg.rendition.largest.jpg",
+    "common_name": "Firecracker Flower",
+    "scientific_name": "Crossandra infundibuliformis",
+    "hardiness_zones": "10-11"
+}
+]

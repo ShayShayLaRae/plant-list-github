@@ -1,0 +1,56 @@
+[{
+    "id": "1",
+    "my_nickname": "",
+    "image": "https://i.pinimg.com/originals/8a/8c/7d/8a8c7d6309d4d375c1c0172909312a25.jpg",
+    "common_name": "Delicious Monster, Swiss Cheese Plant",
+    "scientific_name": "Monstera Deliciosa",
+    "hardiness_zones": "10-11"
+},
+{
+    "id": "2",
+    "my_nickname": "",
+    "image": "http://plantsrescue.com/wp-content/uploads/2014/03/Nephrolepis-exaltata-2.jpg",
+    "common_name": "Sword Fern",
+    "scientific_name": "Nephrolepis exaltata",
+    "hardiness_zones": "9-11"
+},
+{
+    "id": "3",
+    "my_nickname": "",
+    "image": "https://parkseed.com/images/xxl/51018-pk-p1.jpg",
+    "common_name": "Pitcher Plant",
+    "scientific_name": "Nepenthes",
+    "hardiness_zones": "6-7"
+},
+{
+    "id": "4",
+    "my_nickname": "",
+    "image": "https://i.pinimg.com/originals/6f/96/1e/6f961e9eaba5892e00008263e6a12efd.jpg",
+    "common_name": "Moonlight Caladium",
+    "scientific_name": "Caladium",
+    "hardiness_zones": "4-9"
+},
+{
+    "id": "5",
+    "my_nickname": "Naked Ladies",
+    "image": "https://i.pinimg.com/736x/a1/4a/5f/a14a5fb1c1c002177d43934ef6cbf556--pink-garden-shade-garden.jpg",
+    "common_name": "Bleeding Heart",
+    "scientific_name": "Lamprocapnos spectabilis",
+    "hardiness_zones": "3-9"
+},
+{
+    "id": "6",
+    "my_nickname": "Lollipop hug",
+    "image": "https://www.aboutmanchester.co.uk/wp-content/uploads/2019/07/plant_sundews_600x300.jpg",
+    "common_name": "Sundew",
+    "scientific_name": "Drosera",
+    "hardiness_zones": "9-11"
+},
+{
+    "id": "7",
+    "my_nickname": "",
+    "image": "https://q7i2y6d5.stackpathcdn.com/wp-content/uploads/2012/03/mother-in-laws-snake-plant-400x600.jpg",
+    "common_name": "Snake Plant",
+    "scientific_name": "Sansevieria trifasciata",
+    "hardiness_zones": "9-11"
+}]
